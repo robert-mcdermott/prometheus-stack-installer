@@ -23,7 +23,7 @@ By default none of these services are SSL enabled, so this script will proxy all
 Just clone this repository to the sysetem that you'll be installing Prometheus on:
 
 ```
-git clone https://github.com/FredHutch/prometheus-stack-installer.git 
+git clone https://github.com/robert-mcdermott/prometheus-stack-installer.git 
 cd prometheus-stack-installer
 ```
 
